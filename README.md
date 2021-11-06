@@ -13,3 +13,4 @@ No email é enviado a planilha com os dados coletados e informando em qual Loja 
 
 FINALIDADE DE PROJETO:
 O objetivo do projeto é utilizar o selenium para buscar informações de sites complexos que constantemente são atualizados, tratar os dados coletados e dar um destino para as informações encontradas.
+O projeto foi realizado durante o Curso Python Impressionador ministrado pela HashTag Treinamentos.
