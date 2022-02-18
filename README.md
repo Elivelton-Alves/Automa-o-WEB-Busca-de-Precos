@@ -1,4 +1,4 @@
-# Automa-o-WEB-Busca-de-Precos
+# Automação-WEB-Busca-de-Precos
 
 Projeto de automação WEB para buscar informações de preços de produtos nos sites, realizar a comparação de preços e se algum produto estiver com 20% ou mais de desconto será enviado um email ao responsável peo setor de compras.
 
